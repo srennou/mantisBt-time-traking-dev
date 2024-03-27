@@ -1,0 +1,46 @@
+<?php
+$s_plugin_TimeTrackingDev_title = 'Time Tracking Dev';
+$s_plugin_TimeTrackingDev_subtitle = 'Are you a Developer and have worked on this case? Document your work here.';
+$s_plugin_TimeTrackingDev_user = 'User';
+$s_plugin_TimeTrackingDev_users = 'Users';
+$s_plugin_TimeTrackingDev_traking_project_hours = 'Projects/Hours';
+$s_plugin_TimeTrackingDev_traking_project_nb_ticket = 'Projects/NB Bug';
+$s_plugin_TimeTrackingDev_activity = 'Activity';
+$s_plugin_TimeTrackingDev_ticket = 'Bug';
+
+
+$s_plugin_TimeTrackingDev_admin_own_threshold = 'Admin Own Threshold';
+$s_plugin_TimeTrackingDev_view_others_threshold = 'View Others Threshold';
+$s_plugin_TimeTrackingDev_admin_threshold = 'Admin Threshold';
+$s_plugin_TimeTrackingDev_categories = 'Categories';
+
+$s_plugin_TimeTrackingDev_expenditure_date = 'Expenditure Date';
+$s_plugin_TimeTrackingDev_hours = 'Hours';
+$s_plugin_TimeTrackingDev_category = 'Category';
+$s_plugin_TimeTrackingDev_information = 'Information';
+$s_plugin_TimeTrackingDev_configuration = 'Configuration';
+$s_plugin_TimeTrackingDev_update = 'Update';
+$s_plugin_TimeTrackingDev_entry_date = 'Entry Date (automatic)';
+$s_plugin_TimeTrackingDev_submit = 'Add';
+$s_plugin_TimeTrackingDev_sum = 'Sum';
+$s_plugin_TimeTrackingDev_delete = 'Delete';
+$s_plugin_TimeTrackingDev_value_error = 'Please enter a valid number in field Hours!';
+$s_plugin_TimeTrackingDev_history = 'Time allocated';
+$s_plugin_TimeTrackingDev_deleted = 'Deleted';
+$s_plugin_TimeTrackingDev_timerecord_menu = 'Jump to TimeTrackingDev';
+$s_plugin_TimeTrackingDev_tma = 'TMA';
+$s_plugin_TimeTrackingDev_total_sold = 'Total tma sold';
+$s_plugin_TimeTrackingDev_sold_left = 'Remainder';
+$s_plugin_TimeTrackingDev_sold_consumed = 'Consumed';
+$s_plugin_TimeTrackingDev_sold_grantie = 'warranty';
+$s_plugin_TimeTrackingDev_tma_title_danger = 'Warning';
+$s_plugin_TimeTrackingDev_tma_desc_danger = 'Your tma balance is completely consumed please contact the administrator';
+$s_plugin_TimeTrackingDev_tma_title_warning = 'Notice';
+$s_plugin_TimeTrackingDev_tma_desc_warning = 'Your tma balance is almost completely consumed please contact the administrator';
+$s_plugin_TimeTrackingDev_category_bug = 'Bug category';
+$s_plugin_TimeTrackingDev_severity = 'Severity';
+$s_plugin_TimeTrackingDev_status = 'Status';
+$s_plugin_TimeTrackingDev_priority = 'Priority';
+$s_plugin_TimeTrackingDev_traking_category = 'Tracking Catégorie';
+
+$s_plugin_TimeTrackingDev_get_info = 'Get time tracking information';

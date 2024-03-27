@@ -1,0 +1,43 @@
+<?php
+$s_plugin_TimeTrackingDev_title = 'Time Tracking Dev';
+$s_plugin_TimeTrackingDev_subtitle = 'Are you a Developer and have worked on this case? Document your work here.';
+$s_plugin_TimeTrackingDev_user = 'User';
+$s_plugin_TimeTrackingDev_users = 'Utilisateurs';
+$s_plugin_TimeTrackingDev_traking_project_hours = 'Projects/Heures';
+$s_plugin_TimeTrackingDev_traking_project_nb_ticket = 'Projects/NB Ticket';
+$s_plugin_TimeTrackingDev_activity = 'Activité';
+$s_plugin_TimeTrackingDev_ticket = 'Ticket';
+
+$s_plugin_TimeTrackingDev_admin_own_threshold = 'Admin Own Threshold';
+$s_plugin_TimeTrackingDev_view_others_threshold = 'View Others Threshold';
+$s_plugin_TimeTrackingDev_admin_threshold = 'Admin Threshold';
+
+$s_plugin_TimeTrackingDev_expenditure_date = 'Expenditure Date';
+$s_plugin_TimeTrackingDev_hours = 'Heures';
+$s_plugin_TimeTrackingDev_information = 'Information';
+$s_plugin_TimeTrackingDev_configuration = 'Configuration';
+$s_plugin_TimeTrackingDev_update = 'Update';
+$s_plugin_TimeTrackingDev_entry_date = 'Entry Date (automatic)';
+$s_plugin_TimeTrackingDev_submit = 'Add';
+$s_plugin_TimeTrackingDev_sum = 'Sum';
+$s_plugin_TimeTrackingDev_delete = 'Delete';
+$s_plugin_TimeTrackingDev_value_error = 'Please enter a valid number in field Hours!';
+$s_plugin_TimeTrackingDev_history = 'Time allocated';
+$s_plugin_TimeTrackingDev_deleted = 'Deleted';
+$s_plugin_TimeTrackingDev_timerecord_menu = 'Jump to TimeTrackingDev';
+$s_plugin_TimeTrackingDev_tma = 'TMA';
+$s_plugin_TimeTrackingDev_total_sold = 'Total forfait tma';
+$s_plugin_TimeTrackingDev_sold_left = 'Reste';
+$s_plugin_TimeTrackingDev_sold_consumed = 'Consommé';
+$s_plugin_TimeTrackingDev_sold_grantie = 'Garantie';
+$s_plugin_TimeTrackingDev_tma_title_danger = 'Avertissement';
+$s_plugin_TimeTrackingDev_tma_desc_danger = 'Votre sold tma est totalement consommé merci de contacter l\'administrateur';
+$s_plugin_TimeTrackingDev_tma_title_warning = 'Avis';
+$s_plugin_TimeTrackingDev_tma_desc_warning = 'Votre sold tma est presque totalement consommé merci de contacter l\'administrateur';
+$s_plugin_TimeTrackingDev_category_bug = 'Categorie de l\'anomalie';
+$s_plugin_TimeTrackingDev_severity = 'Sévérité';
+$s_plugin_TimeTrackingDev_status = 'État';
+$s_plugin_TimeTrackingDev_priority = 'Priorité';
+$s_plugin_TimeTrackingDev_traking_category = 'Tracking Catégorie';
+
+$s_plugin_TimeTrackingDev_get_info = 'Obtenir des informations de suivi du temps';

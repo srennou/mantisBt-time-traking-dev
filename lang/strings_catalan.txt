@@ -1,0 +1,25 @@
+<?php
+$s_plugin_TimeTrackingDev_title = 'Dedicació Temporal';
+$s_plugin_TimeTrackingDev_subtitle = 'Si has dedicat temps a aquesta incidència, indica-ho aqui';
+$s_plugin_TimeTrackingDev_user = 'Usuari';
+
+$s_plugin_TimeTrackingDev_admin_own_threshold = 'Perfil d\'usuari propietari';
+$s_plugin_TimeTrackingDev_view_others_threshold = 'Perfil d\'usuari visualitzador';
+$s_plugin_TimeTrackingDev_admin_threshold = 'Perfil d\'usuari administrador';
+$s_plugin_TimeTrackingDev_categories = 'Categories';
+
+$s_plugin_TimeTrackingDev_expenditure_date = 'Data efectiva';
+$s_plugin_TimeTrackingDev_hours = 'Hores';
+$s_plugin_TimeTrackingDev_information = 'Informació';
+$s_plugin_TimeTrackingDev_configuration = 'Configuració';
+$s_plugin_TimeTrackingDev_update = 'Actualització';
+$s_plugin_TimeTrackingDev_entry_date = 'Data entrada (automàtic)';
+$s_plugin_TimeTrackingDev_submit = 'Enviar';
+$s_plugin_TimeTrackingDev_sum = 'Suma';
+$s_plugin_TimeTrackingDev_delete = 'Eliminar!';
+$s_plugin_TimeTrackingDev_value_error = 'Si us plau introdueix un número correcte per al camp hores/dies!';
+$s_plugin_TimeTrackingDev_history = 'Dedicació Temporal';
+$s_plugin_TimeTrackingDev_deleted = 'esborrada';
+$s_plugin_TimeTrackingDev_timerecord_menu = 'Anar a Dedicació Temporal';
+
+$s_plugin_TimeTrackingDev_get_info = 'Obtenir informació de seguiment en temps';

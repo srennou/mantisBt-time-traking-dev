@@ -1,0 +1,24 @@
+<?php
+$s_plugin_TimeTrackingDev_title = 'Zeiterfassung';
+$s_plugin_TimeTrackingDev_subtitle = 'Sie sind Entwickler und haben abrechenbaren Aufwand zu diesem Eintrag? Erfassen Sie ihn hier.';
+$s_plugin_TimeTrackingDev_user = 'Benutzer';
+
+$s_plugin_TimeTrackingDev_admin_own_threshold = 'Eigene Einträge bearbeiten';
+$s_plugin_TimeTrackingDev_view_others_threshold = 'Einträge ansehen';
+$s_plugin_TimeTrackingDev_admin_threshold = 'Einträge bearbeiten';
+
+$s_plugin_TimeTrackingDev_expenditure_date = 'Aufwandsdatum';
+$s_plugin_TimeTrackingDev_hours = 'Stunden';
+$s_plugin_TimeTrackingDev_information = 'Information';
+$s_plugin_TimeTrackingDev_configuration = 'Konfiguration';
+$s_plugin_TimeTrackingDev_update = 'Konfiguration ändern';
+$s_plugin_TimeTrackingDev_entry_date = 'Erfassungsdatum (automatisch)';
+$s_plugin_TimeTrackingDev_submit = 'Erfassen';
+$s_plugin_TimeTrackingDev_sum = 'Summe';
+$s_plugin_TimeTrackingDev_delete = 'Eintrag entfernen';
+$s_plugin_TimeTrackingDev_value_error = 'Bitte geben Sie eine gültige Zahl in dem Feld Aufwand an.';
+$s_plugin_TimeTrackingDev_history = 'Eingetragene Zeiten';
+$s_plugin_TimeTrackingDev_deleted = 'Gelöscht';
+$s_plugin_TimeTrackingDev_timerecord_menu = 'Zu Zeiterfassung wechseln';
+
+$s_plugin_TimeTrackingDev_get_info = 'Zeiterfassungsdaten aktualisieren';
